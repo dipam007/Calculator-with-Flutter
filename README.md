@@ -1,6 +1,6 @@
 # flutterapp11
 
-A new Flutter application.
+A new Flutter application. This Calculator app perform basic mathematics operations like addition, subtraction, multiplication, division.
 
 ## Getting Started
 
